@@ -39,6 +39,8 @@ Office 365, Adobe Creative Cloud, Acrolinx, Heretto (DITA), Jira, Confluence, Sl
 
 # LINKS
 - Sample SOP
+https://github.com/snajar-techcomm/Writing-Samples/blob/e91878b81fb8a322190e552a5cfeed6dc8f2c284/Miscellaneous-Terminology-SOP-redacted.pdf
 - Sample Quick Ref Guide
+
 - Sample EN-ES Document
 
