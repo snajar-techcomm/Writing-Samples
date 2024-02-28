@@ -43,4 +43,4 @@ https://github.com/snajar-techcomm/Writing-Samples/blob/33a9eb157a9ff07195995467
 - Sample Quick Ref Guide
 
 - Sample EN-ES Document
-
+https://github.com/snajar-techcomm/Writing-Samples/blob/1d25d8a4a9200a8fbbee171c7a0eea68c4d54585/Sample-2124_0618_GPE-BD10L_2Q_10P-es.pdf
